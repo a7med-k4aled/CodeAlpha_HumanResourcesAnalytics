@@ -414,7 +414,7 @@ A video walkthrough of the **Human Resources Analytics Dashboard** is available 
 The video includes the project explanation and an overview of the interactive Power BI dashboard.
 
 🔗 **LinkedIn Project Video:**  
-*Add your LinkedIn video link here after publishing the video.*
+*https://lnkd.in/p/eF5G3nKV*
 
 ---
 ## 🎓 Internship
